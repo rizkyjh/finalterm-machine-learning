@@ -18,7 +18,7 @@ This repository serves as the comprehensive submission for the Machine Learning 
 ---
 
 ## Project 1: End-to-End Fraud Detection Pipeline
-### (Midterm Task 1)
+### (Final term Task 1)
 
 **1. Project Purpose**
 The objective of this project is to design and implement a robust Machine Learning pipeline to detect fraudulent online transactions. This task focuses on binary classification using real-world data with significant class imbalance.
@@ -46,7 +46,7 @@ We implemented and compared two models, focusing on handling the class imbalance
 ---
 
 ## Project 2: Song Year Prediction Pipeline
-### (Midterm Task 2)
+### (Final term Task 2)
 
 **1. Project Purpose**
 To build an end-to-end regression system that predicts the release year of a song based on its audio characteristics (timbre, texture, etc.). This demonstrates the ability to model continuous target variables using both traditional ML and Deep Learning.
@@ -79,7 +79,7 @@ We used **Root Mean Squared Error (RMSE)** to measure the average error in years
 ---
 
 ## Project 3: Fish Image Classification (CNN)
-### (Final Term Task)
+### (Final Term Task 3)
 
 **1. Project Purpose**
 To develop a complete Computer Vision pipeline that classifies fish species from raw images using a Convolutional Neural Network (CNN). This project demonstrates data ingestion optimization, image augmentation, and custom Deep Learning architecture design.
