@@ -38,8 +38,8 @@ We implemented and compared two models, focusing on handling the class imbalance
 
 | Model | Type | Key Configuration | Metric (ROC-AUC) |
 | :--- | :--- | :--- | :--- |
-| **Logistic Regression** | Linear | `class_weight='balanced'` | Baseline Score |
-| **Neural Network (MLP)** | Deep Learning | Layers: (64, 32), ReLU | Deep Learning Score |
+| **Logistic Regression** | Linear | `class_weight='balanced'` | 0.8398 |
+| **Neural Network (MLP)** | Deep Learning | Layers: (64, 32), ReLU | 0.9050 |
 
 **Conclusion:** The Logistic Regression model provided a stable baseline, while the Neural Network captured more complex non-linear relationships. The final predictions for the test set are saved in `submission.csv`.
 
