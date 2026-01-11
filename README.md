@@ -73,8 +73,8 @@ We used **Root Mean Squared Error (RMSE)** to measure the average error in years
 
 | Model | RMSE (Lower is Better) | Performance Analysis |
 | :--- | :--- | :--- |
-| **Random Forest** | *[Insert RMSE]* | Typically handles tabular audio data better. |
-| **Neural Network** | *[Insert RMSE]* | Requires more tuning but captures abstract patterns. |
+| **Random Forest** | *9.3150* | Typically handles tabular audio data better. |
+| **Neural Network** | *9.6074* | Requires more tuning but captures abstract patterns. |
 
 ---
 
